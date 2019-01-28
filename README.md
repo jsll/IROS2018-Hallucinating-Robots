@@ -32,7 +32,8 @@ cd IROS2018-Hallucinating-Robots/
 ```
 3. Fetch the training and test set either by:
     1. Running the installation script install.sh or
-    2. Create the folder datasets/ and manually place the [dataset](http://irobotics.aalto.fi/) there.
+    2. Create the folder datasets/ and manually place the
+    [dataset](https://drive.google.com/drive/u/1/folders/1krNFnAcJRq7za9mtRX59lAegJy2VCr1u) there.
 4. Run a training instance either by:
     1. Running the python script 
 ```
