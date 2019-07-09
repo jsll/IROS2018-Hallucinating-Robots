@@ -33,20 +33,17 @@ Please cite as:
 
 1. Install the dependencies mentioned above.
 2. Clone this repository
-
-```
-git clone git@version.aalto.fi:lundelj2/IROS2018-Hallucinating-Robots.git 
-cd IROS2018-Hallucinating-Robots/
-```
+    ```
+    git clone git@version.aalto.fi:lundelj2/IROS2018-Hallucinating-Robots.git 
+    cd IROS2018-Hallucinating-Robots/
+    ```
 3. Fetch the training and test set either by:
-    1. Running the installation script install.sh or
-    2. Create the folder datasets/ and manually place the
+    1. Running the installation script _install.sh_ or
+    2. Create the folder _datasets_ and manually place the
     [dataset](https://drive.google.com/drive/u/1/folders/1krNFnAcJRq7za9mtRX59lAegJy2VCr1u) there.
 4. Run a training instance either by:
     1. Running the python script 
-```
-python hallucinating.py
-```
-    2. or, alternatively, if the user installed jupyter run the jupyter notebook hallucinating.ipynb
-
-
+        ```
+        python hallucinating.py
+        ```
+    2. or, alternatively, if the user installed jupyter run the jupyter notebook _hallucinating.ipynb_
